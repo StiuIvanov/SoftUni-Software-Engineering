@@ -13,6 +13,20 @@
 <table>
 
 <tr>
-  <th> Java </th>
-  
+  <th> Java </th>  
 </tr>
+
+<tr>
+<td>
+
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/2969/programming-basics-with-java-june-2020" > Programming Basics with Java </a> | <a href="https://softuni.bg/certificates/details/85357/ce7811a9"> Link</a>
+
+</td>
+</tr>
+
+</table>
+
+
+ 
