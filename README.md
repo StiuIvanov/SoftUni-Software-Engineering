@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-<h2> Courses</h2>
+<h2> Courses and certificates</h2>
 
 <table>
 
