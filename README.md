@@ -23,7 +23,7 @@
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | <a href="https://softuni.bg/trainings/2969/programming-basics-with-java-june-2020" > Programming Basics with Java </a> | <a href="https://softuni.bg/certificates/details/85357/ce7811a9"> Link</a>|
 | <a href="https://softuni.bg/trainings/3134/java-fundamentals-september-2020" > Java Fundamentals </a> | <a href="https://softuni.bg/certificates/details/96587/8aa66a24"> Link</a> |
-| <a href="https://softuni.bg/trainings/3215/java-advanced-january-2021"> Java Advanced </a> |  Link|
+| <a href="https://softuni.bg/trainings/3215/java-advanced-january-2021"> Java Advanced </a> | <a href="https://softuni.bg/certificates/details/98588/bf4cd2d0"> Link</a>|
 
 </td>
 </tr>
