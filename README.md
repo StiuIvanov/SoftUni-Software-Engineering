@@ -26,6 +26,7 @@
 | <a href="https://softuni.bg/trainings/3215/java-advanced-january-2021"> Java Advanced </a> | <a href="https://softuni.bg/certificates/details/98588/bf4cd2d0"> Link</a>|
 | <a href="https://softuni.bg/trainings/3216/java-oop-february-2021/internal" > Java OOP </a> | <a href="https://softuni.bg/certificates/details/104168/be66ba52"> Link </a> |
   | <a href="https://softuni.bg/trainings/3422/mysql-may-2021" > MySQL </a>      | <a href="https://softuni.bg/certificates/details/107814/3cc01666"> Link </a> |
+  | <a href="https://softuni.bg/trainings/3352/spring-data-june-2021" > Spinrg Data </a> |  |
 
 </td>
 </tr>
